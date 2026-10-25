@@ -1,4 +1,4 @@
-ReparaTech — Sistema de Gestión de Talleres
+## ReparaTech — Sistema de Gestión de Talleres
 Proyecto universitario desarrollado en React + Vite para la asignatura de Desarrollo Full Stack
 DuocUC — Escuela de Informática y Telecomunicaciones
 
@@ -22,7 +22,7 @@ Cliente tienda
 carlos@gmail.com
 1234
 
-Tecnologías
+## Tecnologías
 React 18
 Componentes funcionales con Hooks
 Bootstrap 5
@@ -31,7 +31,7 @@ Diseño responsivo
 React Router DOM
 Navegación
 
-Vistas de la Tienda (públicas)
+## Vistas de la Tienda (públicas)
 Vista
 Descripción
 Home
@@ -60,7 +60,7 @@ Pago exitoso / error
 Confirmación con código de autorización
 
 
-Versiones del proyecto
+## Versiones del proyecto
 Versión
 Descripción
 v1.0
